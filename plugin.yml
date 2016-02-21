@@ -1,0 +1,4 @@
+name: YPLUtilityLibrary
+main: com.github.erozabesu.yplutillibrary.YPLUtilityLibrary
+load: startup
+version: 1.0.0
